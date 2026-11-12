@@ -1,0 +1,7 @@
+MI CONTROL FINANCIERO — PRIMERA VERSION PWA
+
+Incluye registro de ingresos y gastos, separación de Personal / Aguas frescas / Productos de limpieza / Otro negocio, resumen mensual, informe por cuenta y respaldo/restauración manual.
+
+IMPORTANTE: este paquete NO es un APK. Es una aplicación web instalable (PWA). Para instalarla en Android debe publicarse una vez en un alojamiento HTTPS. Esto se puede hacer desde el mismo celular. Después abre su dirección en Chrome, elige Instalar/Añadir a pantalla de inicio y ábrela una vez con internet para guardar los archivos. Luego puede trabajar sin conexión.
+
+Los movimientos quedan en el almacenamiento local del navegador/dispositivo. No hay conexión a bancos ni envío de datos. Exporta respaldos JSON con frecuencia. No borres los datos del sitio ni desinstales sin respaldar.
